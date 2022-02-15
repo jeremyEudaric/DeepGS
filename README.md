@@ -45,7 +45,7 @@ Deep learning Workflow (parallel networks):
 ======
 ![Data Sample](/image/7.png)
 
-In this part we can observe the results. Cindex is a perfomace index for survial prediction. We got to result withouth and with penalisation. The penalisation methode is regularizer l1.
+In this part we can observe the results. Cindex is a perfomace index for survial prediction. We got the result withouth and with penalisation. The penalisation methode is regularizer l1.
 
 Results:
 ======
