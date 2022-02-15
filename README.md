@@ -23,17 +23,13 @@ Split trainig, test set :
 ======
 ![Data Sample](/image/3.png)
 
-Split trainig, test set :
-======
-![Data Sample](/image/3.png)
-
 
 Adjacency Matrix Bulding :
 ======
 ![Data Sample](/image/4.png)
 
 
-Adjacency Matrix Bulding :
+MLP:
 ======
 ![Data Sample](/image/5.png)
 
