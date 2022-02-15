@@ -34,6 +34,8 @@ MLP:
 ![Data Sample](/image/5.png)
 
 
+With this new layer, we can reduce the weight of information and reduce the parameters. Moreover, this method will allow us to study in the end only the genes with interactions, i.e. the genes for which we have knowledge about the interactions. In this way, we can avoid overfitting and improve the next step of predicting the treatment effect by analysing the different useful interactions.
+
 Graph Hidden Layers:
 ======
 ![Data Sample](/image/6.png)
