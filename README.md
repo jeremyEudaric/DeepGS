@@ -34,9 +34,17 @@ MLP:
 ![Data Sample](/image/5.png)
 
 
-Graph Hidden Layers:
+The Deep Learning workflow will be set up in order to reproduce the different interactions present in the immune process with the patient.Dans le but de reproduire les mécanismes biologiques nous avons créés un workflow de Deep Learning avec quatre inputs différents (Lymphocyte T (T.cells.CD8), Macrophages, Neutrophiles, Cancer Gene Census). Notre workflow prendra comme couche cachées notre « Graph Hidden Layers » en multipliant le poids avec l’adjacency matrix
+
+Deep learning Workflow (parallel networks):
 ======
 ![Data Sample](/image/6.png)
+
+In this part we can observe the results. Cindex is a perfomace index for survial prediction. We got to result withouth and with penalisation. The penalisation methode is regularizer l1.
+Results:
+======
+![Data Sample](/image/7.png)
+
 
 
 
