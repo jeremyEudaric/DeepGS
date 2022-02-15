@@ -13,3 +13,37 @@ My project  was called “DeepGS” and its  aim was  to develop a means to pred
 Graph Neural Network:
 ======
 ![Data Sample](/image/1.png)
+
+
+PPI database:
+======
+![Data Sample](/image/2.png)
+
+Split trainig, test set :
+======
+![Data Sample](/image/3.png)
+
+Split trainig, test set :
+======
+![Data Sample](/image/3.png)
+
+
+Adjacency Matrix Bulding :
+======
+![Data Sample](/image/4.png)
+
+
+Adjacency Matrix Bulding :
+======
+![Data Sample](/image/5.png)
+
+
+Graph Hidden Layers:
+======
+![Data Sample](/image/6.png)
+
+
+
+
+
+
