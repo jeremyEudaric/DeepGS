@@ -44,7 +44,7 @@ Graph Hidden Layers:
 
 The Deep Learning workflow will be set up in order to reproduce the different interactions present in the immune process with the patient.In order to reproduce biological mechanisms we have created a Deep Learning workflow with four different inputs (T-cells (T.cells.CD8), Macrophages, Neutrophils, Cancer Gene Census). Our workflow will take as hidden layers our Graph Hidden Layers by multiplying the weight with the adjacency matrix.
 
-Deep learning Workflow (parallel networks):
+Deep learning Workflow (parallel neural networks):
 ======
 ![Data Sample](/image/7.png)
 
