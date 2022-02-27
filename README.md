@@ -16,10 +16,6 @@ Graph Neural Network:
 ![Data Sample](/image/1.png)
 
 
-PPI database:
-======
-![Data Sample](/image/2.png)
-
 Split trainig, test set :
 ======
 ![Data Sample](/image/3.png)
